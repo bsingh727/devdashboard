@@ -1,0 +1,25 @@
+{
+	"variables": [],
+	"info": {
+		"name": "newmancollection",
+		"_postman_id": "0f9e4636-9aec-6ab1-480f-b9799d7e3395",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:2016/devdashboard",
+			"request": {
+				"url": "http://localhost:2016/devdashboard",
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"projectid\":\"axzzcx\"}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

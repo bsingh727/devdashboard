@@ -1,0 +1,80 @@
+{
+  "collection": {
+    "info": {
+      "id": "a204addd-bb7e-714a-bf4c-283fd2fe1d6e",
+      "name": "usercollection",
+      "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+    },
+    "event": [],
+    "variable": [],
+    "item": []
+  },
+  "environment": {
+    "id": "93187fb4-5841-41da-8951-8b32adbbe9b5",
+    "values": []
+  },
+  "globals": {
+    "id": "19f02c06-d876-4226-8056-5e76411856c6",
+    "values": []
+  },
+  "run": {
+    "stats": {
+      "iterations": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "items": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "scripts": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "prerequests": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "requests": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "tests": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "assertions": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "testScripts": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      },
+      "prerequestScripts": {
+        "total": 0,
+        "pending": 0,
+        "failed": 0
+      }
+    },
+    "timings": {
+      "responseAverage": 0,
+      "started": 1484124307580,
+      "completed": 1484124307649
+    },
+    "executions": [],
+    "transfers": {
+      "responseTotal": 0
+    },
+    "failures": [],
+    "error": null
+  }
+}
